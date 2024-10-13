@@ -1,6 +1,6 @@
 # **Projeto Vagrant Ubuntu**
 
-Neste projeto foi criado uma VM Linux Ubuntu no Vagrant com as seguintes configurações:
+### Neste projeto foi criado uma VM Linux Ubuntu no Vagrant com as seguintes configurações:
 
 * VM Linux Ubuntu 20.04;
 * Memória Ram 1G;
