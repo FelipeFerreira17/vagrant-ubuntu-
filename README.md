@@ -1,4 +1,4 @@
-Projeto Vagrant Ubuntu
+# **Projeto Vagrant Ubuntu**
 
 Neste projeto foi criado uma VM Linux Ubuntu no Vagrant com as seguintes configurações:
 
